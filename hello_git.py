@@ -1,4 +1,4 @@
-print('Intro to version control')
+# Intro to version control
 print('0. See what changed (git status')
 print('1. Add changed file')
 print('2. Make a commit (named transaction)')
